@@ -22,7 +22,7 @@
 
 # Download Link for FFMPEG
 
-[FFMPEg Download] (https://ffmpeg.org/download.html)
+[FFMPEg Download](https://ffmpeg.org/download.html)
 
 # For Linux users FFMPEG is available as a package 
 ## Follow below steps 
