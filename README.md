@@ -11,10 +11,10 @@
 
 # Requirements
 
--> Flask
--> Python 3.6.9
--> pytube
--> ffmpeg
+### -> Flask
+### -> Python 3.6.9
+### -> pytube
+### -> ffmpeg
 
 # For Windows users
 
