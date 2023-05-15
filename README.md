@@ -6,7 +6,14 @@
 
 ### Youtube Video Downloader is Web Application built using Flask and Tailwind CSS which offers real time downloading of youtube videos with just a single click you can download videos in mp4 and mp3 format.
 
+## Screenshots of Web App
+<p align="center">
+<img src="https://github.com/VittalAB/Youtube-Video-Downloader/assets/59869004/abb8c06e-33e9-4097-8fee-30c652ec04b3" />
+</p>
 
+<p align="center">
+<img src="https://github.com/VittalAB/Youtube-Video-Downloader/assets/59869004/26a6f7d2-53ee-4f90-b0f1-56a512659e63" />
+</p>
 
 
 # Requirements
