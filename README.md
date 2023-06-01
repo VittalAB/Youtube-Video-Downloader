@@ -52,7 +52,7 @@
 ### $ ffmpeg -version
 
 <p align="center">
-<img src="https://github.com/VittalAB/Youtube-Video-Downloader/assets/59869004/54cb8a66-ea15-4a70-a152-cf7771e01642" />
+<img height="100px" width="100px" src="https://github.com/VittalAB/Youtube-Video-Downloader/assets/59869004/54cb8a66-ea15-4a70-a152-cf7771e01642"/>
 </p>
 
 
