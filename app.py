@@ -35,7 +35,13 @@ def download_audio(link):
     os.system(
         f'ffmpeg -loop 1 -r 1 -i static/images/flyer.jpg -i audios/{i}_.mp3 -c:a copy -shortest -c:v libx264 audios/{i}_.mp4')
     os.remove(out_file)
-    ret_file = f'audios/{i}_.mp4'
+
+
+    if os.name=='posix':
+        ret_file = f'audios/{i}_.mp4'
+    else:
+        ret_file = f'audios//{i}_.mp4'
+    
     i = (i+1) % 5
     with open("history.txt", "a") as myfile:
         myfile.write(
@@ -53,7 +59,7 @@ def download_video(link):
 
     url = yt(str(link))
     video = url.streams.get_lowest_resolution()
-    
+
     out_file = video.download(output_path='./videos', filename=str(i)+'_.mp4')
 
     if os.name=='posix':
