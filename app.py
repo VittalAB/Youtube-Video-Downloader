@@ -53,8 +53,14 @@ def download_video(link):
 
     url = yt(str(link))
     video = url.streams.get_lowest_resolution()
+    
     out_file = video.download(output_path='./videos', filename=str(i)+'_.mp4')
-    ret_file = f'videos/{i}_.mp4'
+
+    if os.name=='posix':
+        ret_file = f'videos/{i}_.mp4'
+    else:
+        ret_file = f'videos//{i}_.mp4'
+
     i = (i+1) % 2
     with open("history.txt", "a") as myfile:
         myfile.write(
