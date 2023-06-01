@@ -11,12 +11,12 @@
 ## 🚀 Are you tired of relying on external software or plugins to download your favorite YouTube videos? Say goodbye to the hassle because our new YouTube Video Downloader is here to simplify the process! With just a single click, you can now download videos in MP4 and MP3 formats effortlessly.
 
 ## ✨ Features of Our YouTube Video Downloader:
-<pre> 
- 1️⃣ Real-time downloading: No more waiting! Experience lightning-fast video downloads in real time.
- 2️⃣ MP4 and MP3 formats: Choose your preferred format and get your videos downloaded hassle-free.
- 3️⃣ User-friendly interface: Our web application is designed to be intuitive and user-friendly, ensuring a seamless experience for all users.
+
+ 1️⃣ Real-time downloading: No more waiting! Experience lightning-fast video downloads in real time. <br>
+ 2️⃣ MP4 and MP3 formats: Choose your preferred format and get your videos downloaded hassle-free. <br>
+ 3️⃣ User-friendly interface: Our web application is designed to be intuitive and user-friendly, ensuring a seamless experience for all users. <br>
  4️⃣ Built with Flask and Tailwind CSS: Leveraging the power of Flask, a Python web framework, and styled with Tailwind CSS, our application offers a visually appealing and responsive interface.
-</pre>
+
 
 ### Youtube Video Downloader is Web Application built using Flask and Tailwind CSS which offers real time downloading of youtube videos with just a single click you can download videos in mp4 and mp3 format.
 
