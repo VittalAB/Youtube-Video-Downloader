@@ -18,6 +18,11 @@ video_no = 0
 
 i = 0
 
+if not os.path.exists('audios'):
+    os.mkdir('audios')
+if not os.path.exists('videos'):
+    os.mkdir('videos')
+
 
 def download_audio(link):
     global i
