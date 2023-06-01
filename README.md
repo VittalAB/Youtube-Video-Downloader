@@ -1,7 +1,7 @@
 # Youtube-Video-Downloader
 
 <p align="center">
-<img src="https://github.com/VittalAB/Youtube-Video-Downloader/assets/59869004/4e20812b-1182-4069-9e49-7f071fb6e64c" />
+<img height="350px" width="250px" src="https://github.com/VittalAB/Youtube-Video-Downloader/assets/59869004/4e20812b-1182-4069-9e49-7f071fb6e64c" />
 </p>
 
 ### 📢 Exciting News! Introducing a Powerful YouTube Video Downloader! 🎥🎉
